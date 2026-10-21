@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://eohwijang.fyi/"><img src="https://img.shields.io/badge/어휘장-eohwijang.fyi-10b981?style=flat-square" alt="eohwijang.fyi"></a>
+  <a href="https://eohwijang.fyi/"><img src="https://img.shields.io/badge/%EC%96%B4%ED%9C%98%EC%9E%A5-eohwijang.fyi-10b981?style=flat-square" alt="eohwijang.fyi"></a>
   <a href="https://github.com/Omad-bek/eohwijang"><img src="https://img.shields.io/badge/featured-eohwijang-0f172a?style=flat-square&logo=github" alt="Featured project"></a>
 </p>
 
