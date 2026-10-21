@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Omad-bek 👋</h1>
+<h1 align="center">Hi, I'm Omadbek Khudoyberdiev 👋</h1>
 
 <p align="center">
-  <b>Student at Inha University (인하대학교) · Building web apps for language learners with React & TypeScript</b>
+  <b>Undergraduate at Inha University (인하대학교), Korea · Independent developer building with AI, React & TypeScript</b>
 </p>
 
 <p align="center">
